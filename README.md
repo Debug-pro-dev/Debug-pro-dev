@@ -1,1 +1,1 @@
-Hello everybody!  I'm Ilya.  I am a html, css and javascript coder.  Most of all my sympathy is for javascript.  My preference in code is not to follow the advice "Keep it short, not clear", I try to write the code so that other people can read it.  I don't know what else to write here.
+Привет всем!  Меня зовут Илья. Я `html`, `css`, `javascript` кодер. Больше всего симпатию я испытываю к `javascript`. Мои предпочтения в коде это не следовать правилу "Пиши как короче, а не как понятней", я стараюсь писать код так, что бы его могли понять другие люди!
